@@ -32,6 +32,7 @@
 
 
             }
+            //checked 
 
             Console.WriteLine("Введите Y значение");
             y = Int32.Parse(Console.ReadLine());  
